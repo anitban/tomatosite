@@ -1,0 +1,27 @@
+/**********************TAG SELECTORS***********************/
+
+h1{
+   color: orange;
+
+}
+h2{
+   color: Red;
+
+}
+img {
+  background-color: blue;
+}
+/************************SEUDO SELECTORS********************/
+img:hover{
+  background-color: gold;
+
+}
+/***********************CLASS SELECTORS*********************/
+.tomato {
+  background-color: black;
+
+}
+.circular{
+  border-radius: 20%;
+
+}
